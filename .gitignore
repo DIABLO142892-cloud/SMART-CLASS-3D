@@ -1,0 +1,17 @@
+target/
+.runtime/
+.tools/
+tmp/
+*.log
+*.zip
+.idea/
+.vscode/
+nbproject/private/
+
+
+.build-*/
+target-*/
+output/
+.env
+.env.*
+!.env.example
